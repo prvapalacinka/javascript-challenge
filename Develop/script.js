@@ -16,7 +16,7 @@ function generatePassword() {
   var passwordLength = prompt("Please enter the number of characters you wish for your password to contain. It must be no less than 8 and no more than 128 characters.")
   if (parseInt(passwordLength) >= 8 && parseInt(passwordLength) <= 128) {
 
-
+    // prompts
     var lowerCase = confirm("Do you wish for your password to contain lower case letters?")
 
     var upperCase = confirm("Do you wish for your password to contain upper case letters?")
@@ -27,8 +27,10 @@ function generatePassword() {
 
     var password = "";
 
+    // variable for characters
     var allChars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890~!@#$%^&*()'
 
+    // if statements
     if (!lowerCase && upperCase) {
       allChars = allChars.toUpperCase();
     };
