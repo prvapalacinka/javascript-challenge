@@ -15,3 +15,4 @@ https://github.com/prvapalacinka/javascript-challenge
 
 https://prvapalacinka.github.io/javascript-challenge/
 
+![](../../../Screen%20Shot%202022-09-01%20at%209.53.51%20PM.png)
