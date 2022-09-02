@@ -58,7 +58,7 @@ function generatePassword() {
     return password;
   }
   else {
-    window.alert("Please enter a password length between 8-128 characters."); 
+    window.alert("Please enter a password length between 8-128 characters.");
   }
 }
 
