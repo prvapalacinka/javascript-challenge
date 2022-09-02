@@ -11,3 +11,7 @@ If the user fails to select a character count between 8-128 then the user will b
 
 
 Links to deployed application and github:
+https://github.com/prvapalacinka/javascript-challenge
+
+https://prvapalacinka.github.io/javascript-challenge/
+
